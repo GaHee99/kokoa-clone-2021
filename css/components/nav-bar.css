@@ -29,3 +29,16 @@
   left: 30px;
   position: absolute;
 }
+
+.status-dot {
+  position: relative;
+}
+.status__dot {
+  background-color: tomato;
+  height: 4px;
+  width: 4px;
+  display: flex;
+  border-radius: 50%;
+  position: absolute;
+  left: 30px;
+}
