@@ -40,7 +40,6 @@
   height: 60px;
   border-radius: 25px;
 }
-
 .user-component__column:last-child {
   color: rgba(0, 0, 0, 0.5);
 }
